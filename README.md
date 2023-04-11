@@ -1,0 +1,3 @@
+- 🔨 Currently working on: [Re:Dream](https://github.com/stevepdp/re-dream), refactoring [legacy projects](https://github.com/stevepdp/wgj203-ghoul-must-eat) and improving [my portfolio](https://stevepdp.dev/).
+- 👨‍💻 Seeking full-time remote gameplay programming opportunties. See my [LinkedIn](https://www.linkedin.com/in/stevepdp/).
+- 👯‍♀️ Looking to collab on [Ludum Dare #53](https://ldjam.com/events/ludum-dare/53) this April. [DM](https://twitter.com/stevepdp) if interested?
